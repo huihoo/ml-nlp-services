@@ -1,5 +1,5 @@
-## 机器学习、自然语言处理
-我们将围绕机器学习、自然语言处理和相关开源项目展开深入交流和实践，帮助更多开发者和中小企业培养这样的能力，提供相关的咨询、培训、教育等服务。
+## 机器学习、深度学习、自然语言处理
+我们将围绕机器学习、深度学习、自然语言处理和相关开源项目展开深入交流和实践，帮助更多开发者和中小企业培养这样的能力，提供相关的咨询、培训、教育等服务。
 
 ### 机器学习
 机器学习是人工智能研究领域中的一个极其重要的方向。在现今大数据时代的背景下，捕获数据并从中萃取有价值的信息或模式，使得这一过去为分析师与数学家所专属的研究领域越来越为人们瞩目。
@@ -17,6 +17,13 @@
 这可能是机器学习最简洁的一个划分：
 
 ![ml](https://wiki.huihoo.com/images/6/69/Machine-learning-supervised-vs-unsupervised-learning.png)
+
+### 深度学习
+深度学习是机器学习研究中的一个新的领域，其动机在于建立、模拟人脑进行分析学习的神经网络，它模仿人脑的机制来解释数据，例如图像，声音和文本。
+
+深度学习以神经网络为主要模型，用来解决一些通用人工智能问题，比如推理、决策等。
+
+![nndl](https://wiki.huihoo.com/images/thumb/1/19/Neural-Network-and-Deep-Learning.png/1280px-Neural-Network-and-Deep-Learning.png)
 
 ### ML开源项目
 机器学习的开源项目和资源非常多，一个比较不错的起点是从 Awesome 开始：
@@ -59,6 +66,28 @@
 ![algorithms](https://wiki.huihoo.com/images/c/c9/Machine-learning-supervised-unsupervised.png) 
 
 算法
+
+### NN & DL课程
+这是一个非常完整、清晰的[《神经网络与深度学习》](https://nndl.github.io/) Neural Network and Deep Learning 课程，大家可以从它开始学习深度学习。
+
+《神经网络与深度学习》3小时208页课程概要 [ppt](https://nndl.github.io/ppt/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-3%E5%B0%8F%E6%97%B6.pptx)(72M) [pdf](https://nndl.github.io/ppt/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-3%E5%B0%8F%E6%97%B6.pdf) (12M)
+
+* 1、[绪论](https://nndl.github.io/chap-%E7%BB%AA%E8%AE%BA.pdf) 
+* 2、[机器学习概述](https://nndl.github.io/chap-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%BF%B0.pdf)
+* 3、[线性模型](https://nndl.github.io/chap-%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B.pdf)
+* 4、[前馈神经网络](https://nndl.github.io/chap-%E5%89%8D%E9%A6%88%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.pdf)
+* 5、[卷积神经网络](https://nndl.github.io/chap-%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.pdf) 
+* 6、[循环神经网络](https://nndl.github.io/chap-%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.pdf)
+* 7、[网络优化与正则化](https://nndl.github.io/chap-%E7%BD%91%E7%BB%9C%E4%BC%98%E5%8C%96%E4%B8%8E%E6%AD%A3%E5%88%99%E5%8C%96.pdf)
+* 8、[注意力机制与外部记忆](https://nndl.github.io/chap-%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6%E4%B8%8E%E5%A4%96%E9%83%A8%E8%AE%B0%E5%BF%86.pdf)
+* 9、[无监督学习](https://nndl.github.io/chap-%E6%97%A0%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0.pdf)
+* 10、[模型独立的学习方式](https://nndl.github.io/chap-%E6%A8%A1%E5%9E%8B%E7%8B%AC%E7%AB%8B%E7%9A%84%E5%AD%A6%E4%B9%A0%E6%96%B9%E5%BC%8F.pdf) 
+* 11、[概率图模型](https://nndl.github.io/chap-%E6%A6%82%E7%8E%87%E5%9B%BE%E6%A8%A1%E5%9E%8B.pdf)
+* 12、[深度信念网络](https://nndl.github.io/chap-%E6%B7%B1%E5%BA%A6%E4%BF%A1%E5%BF%B5%E7%BD%91%E7%BB%9C.pdf)
+* 13、[深度生成模型](https://nndl.github.io/chap-%E6%B7%B1%E5%BA%A6%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B.pdf)
+* 14、[深度强化学习](https://nndl.github.io/chap-%E6%B7%B1%E5%BA%A6%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.pdf)
+* 15、[序列生成模型](https://nndl.github.io/chap-%E5%BA%8F%E5%88%97%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B.pdf)
+* 16、[数学基础](https://nndl.github.io/chap-%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80.pdf) 
 
 ### 自然语言处理
 Natural language processing(简称NLP) 自然语言处理是人工智能和语言学领域的分支学科。

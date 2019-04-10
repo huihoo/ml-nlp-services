@@ -18,13 +18,6 @@
 
 ![ml](https://wiki.huihoo.com/images/6/69/Machine-learning-supervised-vs-unsupervised-learning.png)
 
-### 深度学习
-深度学习是机器学习研究中的一个新的领域，其动机在于建立、模拟人脑进行分析学习的神经网络，它模仿人脑的机制来解释数据，例如图像，声音和文本。
-
-深度学习以神经网络为主要模型，用来解决一些通用人工智能问题，比如推理、决策等。
-
-![nndl](https://wiki.huihoo.com/images/thumb/1/19/Neural-Network-and-Deep-Learning.png/1280px-Neural-Network-and-Deep-Learning.png)
-
 ### ML开源项目
 机器学习的开源项目和资源非常多，一个比较不错的起点是从 Awesome 开始：
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ![awesome](https://awesome.re/badge.svg)
@@ -67,6 +60,13 @@
 
 算法
 
+### 深度学习
+深度学习是机器学习研究中的一个新的领域，其动机在于建立、模拟人脑进行分析学习的神经网络，它模仿人脑的机制来解释数据，例如图像，声音和文本。
+
+深度学习以神经网络为主要模型，用来解决一些通用人工智能问题，比如推理、决策等。
+
+![nndl](https://wiki.huihoo.com/images/thumb/1/19/Neural-Network-and-Deep-Learning.png/1280px-Neural-Network-and-Deep-Learning.png)
+
 ### NN & DL课程
 这是一个非常完整、清晰的[《神经网络与深度学习》](https://nndl.github.io/) Neural Network and Deep Learning 课程，大家可以从它开始学习深度学习。
 
@@ -96,6 +96,7 @@ Natural language processing(简称NLP) 自然语言处理是人工智能和语�
 * [awesome-nlp](https://github.com/keon/awesome-nlp) ![awesome](https://awesome.re/badge.svg) 
 * [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing) ![awesome](https://awesome.re/badge.svg) 
 * [awesome-chinese-nlp](https://github.com/crownpku/Awesome-Chinese-NLP) ![awesome](https://awesome.re/badge.svg) 
+* [THUNLP](https://github.com/thunlp) 清华大学自然语言处理与社会人文计算实验室
 
 [Natural language processing topic](https://github.com/topics/nlp)
 * [spaCy](https://github.com/explosion/spaCy)
